@@ -1,5 +1,6 @@
 django-datetime-widget
 ======================
+```This fork is to be able to use it with the latest version of Django (2.1 now).```
 
 .. image:: https://pypip.in/v/django-datetime-widget/badge.png
     :target: https://crate.io/packages/django-datetime-widget
